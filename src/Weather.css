@@ -38,6 +38,7 @@
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
+  margin-left: 12px;
 }
 
 .Weather .unit {
@@ -46,4 +47,9 @@
   position: relative;
   top: -34px;
   line-height: 1;
+}
+
+.icon,
+.temperatureData {
+  display: inline-block;
 }
