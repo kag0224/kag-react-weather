@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://github.com/kag0224/kag-react-weather"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             GitHub
           </a>
